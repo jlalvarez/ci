@@ -2,4 +2,4 @@
 
 set -e
 
-docker build 
+docker build -t v0 .
