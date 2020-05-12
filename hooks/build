@@ -1,5 +1,5 @@
 #!/bin/bash
 
-set -e
+echo "Construyendo ..."
 
-docker build -t v0 .
+docker build ..
