@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "Construyendo ..."
-docker build .
+docker build -t jluisalvarez/ci:v.1.0 .
