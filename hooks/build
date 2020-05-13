@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Construyendo ..."
+docker build -f ../Dockerfile ../.
